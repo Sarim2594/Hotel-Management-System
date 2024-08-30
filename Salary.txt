@@ -1,0 +1,5 @@
+Chef:15000
+Janitor:15000
+Receptionist:11000
+Waiter:11000
+Porter:11000
